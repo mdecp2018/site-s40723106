@@ -2,13 +2,13 @@
   position: relative;
 }
 header{
-  background: #ccc;
+  ;
   padding: 20px;
 }
 confmenu
 {
 	#width: 800px;
-	background: #333;
+	background: #ff1010;
 	margin-bottom: 10px;
 }
 confmenu ul
@@ -24,11 +24,11 @@ confmenu ul li
 }
 confmenu li a
 {
-	display: block;
+	display: red;
 	float: left;
 	padding: 5px 10px;
 	color: #fff;
-	background: #333;
+	background: #ff0000;
 	text-decoration: none;
 	border-right: 1px solid #fff;
 }
