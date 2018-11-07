@@ -133,7 +133,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018計算機程式別當我
+<t tx="leo.20180827201621.10">## 40723106 計算機程式
 
 ### 虎科大機械設計工程系感謝您
 
@@ -361,7 +361,9 @@ make.start()
 
 ### 建立個人網站
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/LCbCwQmZCMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/LCbCwQmZCMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181108001240.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -375,6 +377,8 @@ make.start()
 
 ### git 基本練習
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6XZj1ob2oZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6XZj1ob2oZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 </tnodes>
 </leo_file>
