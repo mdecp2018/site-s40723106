@@ -2119,10 +2119,10 @@ init_mathjax();
 -->
 <style>
 img{
-    border 5px solid red 
+    border:7px solid yellow;
 }
 </style>
-'''  
+'''
 
 
 def tinymce_editor(menu_input=None, editor_content=None, page_order=None):
