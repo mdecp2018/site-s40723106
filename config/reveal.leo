@@ -24,6 +24,12 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20181108001124.1" a="E"><vh>導入影片</vh>
+<v t="leo.20181108001143.1"><vh>影片內容</vh></v>
+</v>
+<v t="leo.20181108001240.1" a="E"><vh>導入影片</vh>
+<v t="leo.20181108001240.2"><vh>影片內容</vh></v>
+</v>
 <v t="leo.20181102150246.1" a="E"><vh>wtf</vh>
 <v t="leo.20181102150246.2"><vh>封面投影片內容</vh></v>
 </v>
@@ -342,5 +348,33 @@ make.start()
 ##  想想為什麼當初堅持走到這裡
 
 </t>
+<t tx="leo.20181108001124.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108001143.1">## week1
+
+### 建立個人網站
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/LCbCwQmZCMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181108001240.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108001240.2">## week 3
+
+### git 基本練習
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6XZj1ob2oZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
